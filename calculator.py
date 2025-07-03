@@ -1,1 +1,1 @@
-~º&~V¬’)©¢»E•«$jš
+print("Hello, World")
